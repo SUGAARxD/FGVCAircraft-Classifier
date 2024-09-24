@@ -39,7 +39,7 @@ If you want to train the model using the other two levels from the hierarchy (va
 
 ## How to Use
 
-### Instalation
+### Installation
 
 1. **Clone the repository**
 2. **Create and Activate a Virtual Environment Using Conda:**
@@ -71,7 +71,7 @@ Alternatively, you can run the script from the console:
 
 1. **Enter the Project Folder:**
    ```bash
-   cd path_to_repo/FGVCAircraft-Classifier
+   cd path_to_repo\FGVCAircraft-Classifier
    ```
    **Make sure to replace `path_to_repo` with the actual path to your cloned repository.**
 2. **Run the Code:**
