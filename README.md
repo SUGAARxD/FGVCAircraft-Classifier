@@ -2,7 +2,7 @@
 
 ## Description
 
-This project implements a deep learning classifier for image classification. The goal is to accurately classify images of aircraft into predefined categories based on their visual content.
+This project implements a deep learning model for image classification. The goal is to accurately classify images of aircraft into predefined categories based on their visual content.
 
 ## Technologies
 
